@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:pageBased/pageBased.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:masterDetail/masterDetail.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tabbedView/tabbedView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lolView/lolView.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ObjectiveCIntro/ObjectiveCIntro.xcodeproj">
    </FileRef>
 </Workspace>
